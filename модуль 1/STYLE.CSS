@@ -1,0 +1,28 @@
+P {
+    color: rgb(248, 126, 126);
+    font-size: 22px;
+    font-family: Impact;
+}
+         div {
+    width: 70%;
+    margin:auto;
+    padding: 50px;
+    background-color: rgb(157, 73, 236);
+    }
+
+
+    a  {
+        text-decoration: none;
+        color:rgb(243, 240, 34) (148, 50, 240);
+        display: block;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    body{
+        background-color: firebrick;
+    }
